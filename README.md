@@ -17,26 +17,28 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
 </p>
 
-> **Data Science & ML Stack:** Pandas | Scikit-learn | OpenEnv
+> **Data Science & ML Stack:** PyTorch | OpenEnv | Pandas | Matplotlib
 
 ---
 
-### 🚀 Featured Security & ML Projects
+### Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[SSH Honeypot](https://github.com/awdtyo/ssh-honeypot)** | A sophisticated SSH honeypot designed to log unauthorized access attempts and analyze attacker behavior. | Python, Bash, Linux |
-| **[ML Based SIEM Tool]** | *In Progress:* Utilizing Deep Learning to identify anomalous network patterns in real-time. | PyTorch, FastAPI, Docker |
+| **[Project Amaze](https://github.com/Ridreb05/project-amaze)** | An RL training environment where a language model agent acts as an autonomous flight controller, learning to execute spacecraft rendezvous and docking through trial-and-error against a CWH physics simulation.
+
+
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/awdtyo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
