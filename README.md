@@ -1,7 +1,9 @@
 # Hi there, I'm awdtyo 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=200&section=header&text=AI%20%7C%20Cyber%20Security%20%7C%20Dev&fontSize=60&animation=fadeIn" alt="Header Banner" />
+  <a href="https://github.com/awdtyo">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=300&section=header&text=AI%20%7C%20Cyber%20Security%20%7C%20Dev&fontSize=60&animation=fadeIn&fontAlignY=50&desc=Bridging%20Intelligence%20and%20Security&descAlignY=65&descSize=25&bgImg=http://googleusercontent.com/image_collection/image_retrieval/13889071763192717954" alt="Header Banner" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
