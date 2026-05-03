@@ -1,4 +1,4 @@
-# Hi there, I'm awdtyo 👋
+# Awdtyo here,
 
 <p align="center">
   <!-- replace [LINK_TO_YOUR_HOSTED_IMAGE.png] with your direct image URL -->
@@ -7,13 +7,13 @@
   </a>
 </p>
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently focused on **bridging the gap between Machine Learning and Cyber Security**.
-- 🛡️ Developing intelligent systems for **threat detection, malware analysis, and network security**.
-- 🌱 Deepening my expertise in **Deep Learning architectures** using PyTorch and TensorFlow.
-- 💬 Ask me about **FastAPI, Pandas, Scikit-learn, and Linux automation**.
-- ⚡ Fun fact: I prefer the **Bash terminal** over any GUI.
+- I’m currently focused on **bridging the gap between Deep Learning and Cyber Security**.
+- Developing intelligent systems for **threat detection, malware analysis, and network security**.
+- Deepening my expertise in **Deep Learning architectures** using PyTorch and TensorFlow.
+- Ask me about **Pentesting, Linux, PyTorch and Deep Learning**.
+
 
 ---
 
