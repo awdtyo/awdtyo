@@ -29,7 +29,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[SSH Honeypot](https://github.com/awdtyo/ssh-honeypot)** | A sophisticated SSH honeypot designed to log unauthorized access attempts and analyze attacker behavior. | Python, Bash, Linux |
-| **[AI Threat Detector]** | *In Progress:* Utilizing Deep Learning to identify anomalous network patterns in real-time. | PyTorch, FastAPI, Docker |
+| **[ML Based SIEM Tool]** | *In Progress:* Utilizing Deep Learning to identify anomalous network patterns in real-time. | PyTorch, FastAPI, Docker |
 
 ---
 
@@ -42,13 +42,4 @@
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awdtyo&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="awdtyo's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awdtyo&theme=vision-friendly-dark&hide_border=true" alt="awdtyo's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awdtyo&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="350" />
-</p>
