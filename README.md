@@ -1,8 +1,9 @@
 # Hi there, I'm awdtyo 👋
 
 <p align="center">
+  <!-- replace [LINK_TO_YOUR_HOSTED_IMAGE.png] with your direct image URL -->
   <a href="https://github.com/awdtyo">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=300&section=header&text=AI%20%7C%20Cyber%20Security%20%7C%20Dev&fontSize=60&animation=fadeIn&fontAlignY=50&desc=Bridging%20Intelligence%20and%20Security&descAlignY=65&descSize=25&bgImg=http://googleusercontent.com/image_collection/image_retrieval/13889071763192717954" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=300&section=header&text=AI%20%7C%20Cyber%20Security%20%7C%20Dev&fontSize=60&animation=fadeIn&fontAlignY=50&desc=Bridging%20Intelligence%20and%20Security&descAlignY=65&descSize=25&bgImg=banner.png" alt="Header Banner" />
   </a>
 </p>
 
