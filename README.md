@@ -17,7 +17,7 @@
 
 ---
 
-### Tech Stack
+### Tech Stack 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
