@@ -23,16 +23,11 @@
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
 </p>
 
-> **Data Science & ML Stack:** PyTorch | OpenEnv | Pandas | Matplotlib
+> **Data Science & ML Stack:** PyTorch | Pandas | Matplotlib | Seaborn | ScikitLearn | Tensorflow | Keras 
 
 ---
 
-### Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[SSH Honeypot](https://github.com/awdtyo/ssh-honeypot)** | A sophisticated SSH honeypot designed to log unauthorized access attempts and analyze attacker behavior. | Python, Bash, Linux |
-| **[Project Amaze](https://github.com/Ridreb05/project-amaze)** | An RL training environment where a language model agent acts as an autonomous flight controller, learning to execute spacecraft rendezvous and docking through trial-and-error against a CWH physics simulation. | Python, OpenEnv, Jupyter |
 
 
 
