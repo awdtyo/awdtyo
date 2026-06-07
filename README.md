@@ -10,9 +10,10 @@
 ### About Me 
 
 - I’m currently focused on **Deep Learning and Cyber Security**.
-- Developing intelligent systems for **threat detection, malware analysis, and network security**.
 - Deepening my expertise in **Deep Learning architectures** using PyTorch and TensorFlow.
-- Ask me about **Pentesting, Linux, PyTorch and Deep Learning**.
+- Developing intelligent systems for **threat detection, malware analysis, and network security**.
+
+
 
 
 ---
