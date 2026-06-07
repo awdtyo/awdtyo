@@ -21,7 +21,7 @@
 ### Tech Stack 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
 </p>
 
 > **Data Science & ML Stack:** PyTorch | Pandas | Matplotlib | Seaborn | ScikitLearn | Tensorflow | Keras 
