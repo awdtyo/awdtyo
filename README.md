@@ -34,13 +34,9 @@
 
 </div>
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awdtyo&bg_color=0d0a1e&color=9b59f7&line=7c3aed&point=c0b8f0&area=true&area_color=4c1d9540&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
 
----
 
 <div align="center">
 
