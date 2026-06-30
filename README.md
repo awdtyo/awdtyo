@@ -5,7 +5,7 @@
   <a href="https://github.com/awdtyo">
     <img src="image1.png" alt="Header Banner" />
   </a> 
-</p>
+</p> 
  
 ### About Me 
 
