@@ -9,7 +9,7 @@
  
 ### About Me  
 
-- I’m currently focused on **Deep Learning and Cyber Security**.
+- I’m currently focused on **Agentic AI and Generative AI**.
 - Deepening my expertise in **Deep Learning architectures** using PyTorch and TensorFlow.
 - Developing intelligent systems for **threat detection, malware analysis, and network security**.
 
@@ -21,7 +21,7 @@
 ### Tech Stack and Skills 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,langchain,tensorflow,fastapi,mongodb,java,cpp,bash,linux,docker,git,react,vite&perline=7" alt="My Skills" />
 </p>
 
 > **Data Science & ML Stack:** PyTorch | Pandas | Matplotlib | Seaborn | ScikitLearn | Tensorflow | Keras 
