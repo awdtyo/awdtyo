@@ -9,10 +9,10 @@
  
 ### About Me  
 
-- I’m currently focused on **Agentic AI and Generative AI**.
-- Deepening my expertise in **Deep Learning architectures** using PyTorch and TensorFlow.
-- Developing intelligent systems for **threat detection, malware analysis, and network security**.
-
+- Research Intern at **National Institute of Technology, Durgapur**.
+- Focused in developing multimodal intelligent systems for Computer Vision.
+- Expertise in Computer Vision, Retrieval Augmented Generation Systems & Deep Neural Nets.
+  
 
 
 
