@@ -12,7 +12,7 @@
 - Research Intern at **National Institute of Technology, Durgapur**.
 - Focused in developing multimodal intelligent systems for Computer Vision.
 - Expertise in Computer Vision, Retrieval Augmented Generation Systems & Deep Neural Nets.
-  
+- Currently exploring Embedded Systems, IoT, Edge AI and Distributed Systems.
 
 
 
