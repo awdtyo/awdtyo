@@ -10,8 +10,8 @@
 ### About Me  
 
 - Research and Development @ **National Institute of Technology, Durgapur**.
-- Focused in designing and developing multimodal intelligent systems for Computer Vision.
-- Expertise in Computer Vision, Retrieval Augmented Generation Systems & Deep Neural Nets.
+- Developing multimodal intelligent systems for Computer Vision.
+- Expertised in Computer Vision, Retrieval Augmented Generation Systems & Deep Neural Nets.
 - Currently exploring Embedded Systems, IoT, Edge AI and Distributed Systems.
 
 
