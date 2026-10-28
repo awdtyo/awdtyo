@@ -9,10 +9,10 @@
  
 ### About Me  
 
-- Research and Development @ **National Institute of Technology, Durgapur**.
+- Research and Development @ **Jadavpur University**.
+- Ex-Research Fellow @ **National Institute of Technology, Durgapur**
 - Developing multimodal intelligent systems for Computer Vision.
 - Expertised in Computer Vision, Retrieval Augmented Generation Systems & Deep Neural Nets.
-- Currently exploring Embedded Systems, IoT, Edge AI and Distributed Systems.
 
 
 
